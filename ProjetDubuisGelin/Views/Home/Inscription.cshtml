@@ -1,0 +1,25 @@
+﻿@model ProjetDubuisGelin.Models.UtilisateurViewModel.UtilisateurRegistrationViewModel
+@{
+    ViewData["Title"] = "Inscription";
+}
+
+<h2>Inscription</h2>
+
+<form asp-action="Inscription">
+    @Html.Label("Nom")
+    @Html.EditorFor(m => m.Nom)
+
+    @Html.Label("Prénom")
+    @Html.EditorFor(m => m.Prenom)
+
+    @Html.Label("Mail")
+    @Html.EditorFor(m => m.Mail)
+
+    @Html.Label("Mot de passe ")
+    @Html.EditorFor(m => m.MotdePasse)
+
+    <input type="submit" value="Save" class="btn btn-primary" />
+</form>
+
+
+

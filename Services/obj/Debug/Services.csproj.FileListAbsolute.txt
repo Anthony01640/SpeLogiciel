@@ -1,0 +1,6 @@
+C:\Users\Antho\source\repos\ProjetSpeDubuisGelin\Services\bin\Debug\Services.dll
+C:\Users\Antho\source\repos\ProjetSpeDubuisGelin\Services\bin\Debug\Services.pdb
+C:\Users\Antho\source\repos\ProjetSpeDubuisGelin\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\Antho\source\repos\ProjetSpeDubuisGelin\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\Antho\source\repos\ProjetSpeDubuisGelin\Services\obj\Debug\Services.dll
+C:\Users\Antho\source\repos\ProjetSpeDubuisGelin\Services\obj\Debug\Services.pdb
